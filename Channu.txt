@@ -1,5 +1,8 @@
 Hai chandan
 Welcome to Canada
+<<<<<<< HEAD
 how r u
 yhjyujt
 hello
+=======
+gbi7uy879
